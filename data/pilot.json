@@ -1,0 +1,1940 @@
+{
+  "33606": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33611": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "TECO",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Ballast Point Park",
+        "url": "https://www.tampa.gov/parks-and-recreation/locations/ballast-point-park"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33701": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33629": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33609": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33647": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33626": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33607": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33602": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33603": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Tampa Electric (TECO)",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "City of Tampa Water",
+        "url": "https://www.tampa.gov/water"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "FLHSMV Offices",
+        "url": "https://www.flhsmv.gov/locations/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "City of Tampa Parks & Rec",
+        "url": "https://www.tampa.gov/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33710": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33713": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33705": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33704": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33703": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33702": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33707": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33712": {
+    "schools": [
+      {
+        "label": "Pinellas County Schools",
+        "url": "https://www.pcsb.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "City of St. Petersburg Water",
+        "url": "https://www.stpete.org/residents/utilities/"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pinellas Tax Collector \u2014 DMV",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pinellas County Tax Collector",
+        "url": "https://taxcollect.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "St. Pete Parks & Rec",
+        "url": "https://www.stpeteparksrec.org/"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 St Pete",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33511": {
+    "schools": [
+      {
+        "label": "Hillsborough County Schools",
+        "url": "https://www.hillsboroughschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "TECO",
+        "url": "https://www.tampaelectric.com/"
+      },
+      {
+        "label": "Hillsborough County Water",
+        "url": "https://www.hillsboroughcounty.org/en/residents/property-owners-and-renters/water-and-sewer"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Brandon Tax Collector \u2014 DMV",
+        "url": "https://www.hillstax.org/locations/brandon"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hillsborough Tax Collector",
+        "url": "https://www.hillstax.org/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hillsborough County Parks",
+        "url": "https://www.hillsboroughcounty.org/en/residents/recreation-and-culture/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Tampa Metro",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34655": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34668": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33543": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33544": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33545": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34639": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34638": {
+    "schools": [
+      {
+        "label": "Pasco County Schools",
+        "url": "https://www.pasco.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Duke Energy",
+        "url": "https://www.duke-energy.com/home"
+      },
+      {
+        "label": "Pasco County Utilities (Water/Sewer)",
+        "url": "https://www.pascocountyfl.net/289/Utilities"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Pasco County Tax Collector \u2014 DMV",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Pasco County Tax Collector",
+        "url": "https://www.pascotaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Pasco County Parks, Recreation, & Natural Resources",
+        "url": "https://www.pascocountyfl.net/parks"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Pasco",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33801": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33803": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33813": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33809": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33810": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33880": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33881": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33884": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33823": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33844": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33837": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "33896": {
+    "schools": [
+      {
+        "label": "Polk County Public Schools",
+        "url": "https://www.polk.k12.fl.us/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Polk County Utilities (Water/Sewer)",
+        "url": "https://www.polk-county.net/utilities"
+      },
+      {
+        "label": "Lakeland Electric (Lakeland area)",
+        "url": "https://www.lakelandelectric.com/"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Polk County Tax Collector \u2014 DMV",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Polk County Tax Collector",
+        "url": "https://www.polktaxes.com/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Polk County Parks & Recreation",
+        "url": "https://www.polk-county.net/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Polk",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34601": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34604": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34606": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34607": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34608": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34609": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  },
+  "34613": {
+    "schools": [
+      {
+        "label": "Hernando County School District",
+        "url": "https://www.hernandoschools.org/"
+      }
+    ],
+    "utilities": [
+      {
+        "label": "Hernando County Utilities (Water/Sewer)",
+        "url": "https://www.hernandocounty.us/departments/departments-f-m/utilities"
+      },
+      {
+        "label": "Duke Energy (service areas)",
+        "url": "https://www.duke-energy.com/home"
+      }
+    ],
+    "dmv": [
+      {
+        "label": "Hernando County Tax Collector \u2014 DMV",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "taxes": [
+      {
+        "label": "Hernando County Tax Collector",
+        "url": "https://www.hernandotax.us/"
+      }
+    ],
+    "parks": [
+      {
+        "label": "Hernando County Parks & Recreation",
+        "url": "https://www.hernandocounty.us/departments/departments-n-z/parks-and-recreation"
+      }
+    ],
+    "listings": [
+      {
+        "label": "ListCastTV \u2014 Nature Coast",
+        "url": "https://listcasttv.com"
+      }
+    ]
+  }
+}
